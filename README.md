@@ -56,9 +56,11 @@ client_socket.close()
 ## OUPUT
 ## Server--
 <img width="1303" height="92" alt="serverout" src="https://github.com/user-attachments/assets/0830f8d4-09cb-4385-9b00-da0c304cb1d0" />
-## client--
+
+## Client--
 <img width="1306" height="72" alt="clientout" src="https://github.com/user-attachments/assets/0dc74bad-367b-4ecb-84ab-f2c640ebaadf" />
-## received file--
+
+## Received file--
 <img width="455" height="117" alt="recfile" src="https://github.com/user-attachments/assets/d8beed9a-c2eb-4427-b4aa-572bcdde413e" />
 
 ## RESULT
